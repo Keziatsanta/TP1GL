@@ -1,3 +1,4 @@
 ANDRIAMANALINA Kezia
 ASKRI Dalila
 
+Explications: En ayant commité ce fichier dans la branche mon_fichier, nous ne le voyons pas dans la branche master car le contenu d'une branche est uniquement contenu dans cette branche. Les branches mon_fichier et master sont indépendantes.
